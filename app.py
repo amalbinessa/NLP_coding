@@ -127,7 +127,7 @@ if query:
 
 else :
   # add a default  value
-    query = 'نيوم'#"شركة ثقة لخدمات الأعمال"
+    query = "شركة ثقة لخدمات الأعمال"
 
 
 
