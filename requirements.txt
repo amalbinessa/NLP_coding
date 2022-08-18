@@ -1,0 +1,16 @@
+seaborn
+matplotlib
+streamlit==1.10.0
+pandas 
+keybert
+flair
+click<8
+streamlit-aggrid
+plotly
+torch
+transformers
+nltk
+wordcloud
+arabic_reshaper
+python-bidi
+ClusterTransformer
