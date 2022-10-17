@@ -120,7 +120,7 @@ st.header("ماذا يقول عنك محرك البحث قوقل")
 st.sidebar.header("اكتب الكلمات")
 
 # text_input to write a query words 
-query = st.sidebar.text_input('  اضف/ـي كلمات البحث , مثال :شركة ثقة لخدمات الأعمال ')
+query = st.sidebar.text_input('  اضف/ـي كلمات البحث , مثال :برقر همبرقيني  ')
 
 if query:
     query = query 
